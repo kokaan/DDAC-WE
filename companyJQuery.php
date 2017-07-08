@@ -8,9 +8,9 @@
 if(isset($_POST['id1']))
 {
     define('db_name','ddac');
-    define('db_host','localhost');
-    define('db_user','root');
-    define('db_pass','');
+    define('db_host','kok-ddac-sea-wa-mysqldbserver.mysql.database.azure.com');
+    define('db_user','kok12345@kok-ddac-sea-wa-mysqldbserver');
+    define('db_pass','Kok@12345');
     
     $dblink=mysqli_connect(db_host, db_user, db_pass);
     $db_found=mysqli_select_db($dblink,db_name);
@@ -26,9 +26,9 @@ if(isset($_POST['id1']))
 if(isset($_POST['id2']))
 {
     define('db_name','ddac');
-    define('db_host','localhost');
-    define('db_user','root');
-    define('db_pass','');
+    define('db_host','kok-ddac-sea-wa-mysqldbserver.mysql.database.azure.com');
+    define('db_user','kok12345@kok-ddac-sea-wa-mysqldbserver');
+    define('db_pass','Kok@12345');
     
     $dblink=mysqli_connect(db_host, db_user, db_pass);
     $db_found=mysqli_select_db($dblink,db_name);
@@ -44,9 +44,9 @@ if(isset($_POST['id2']))
 if(isset($_POST['id3']))
 {
     define('db_name','ddac');
-    define('db_host','localhost');
-    define('db_user','root');
-    define('db_pass','');
+    define('db_host','kok-ddac-sea-wa-mysqldbserver.mysql.database.azure.com');
+    define('db_user','kok12345@kok-ddac-sea-wa-mysqldbserver');
+    define('db_pass','Kok@12345');
     
     $dblink=mysqli_connect(db_host, db_user, db_pass);
     $db_found=mysqli_select_db($dblink,db_name);
@@ -62,9 +62,9 @@ if(isset($_POST['id3']))
 if(isset($_POST['id4']))
 {
     define('db_name','ddac');
-    define('db_host','localhost');
-    define('db_user','root');
-    define('db_pass','');
+    define('db_host','kok-ddac-sea-wa-mysqldbserver.mysql.database.azure.com');
+    define('db_user','kok12345@kok-ddac-sea-wa-mysqldbserver');
+    define('db_pass','Kok@12345');
     
     $dblink=mysqli_connect(db_host, db_user, db_pass);
     $db_found=mysqli_select_db($dblink,db_name);
@@ -80,9 +80,9 @@ if(isset($_POST['id4']))
 if(isset($_POST['id5']))
 {
     define('db_name','ddac');
-    define('db_host','localhost');
-    define('db_user','root');
-    define('db_pass','');
+    define('db_host','kok-ddac-sea-wa-mysqldbserver.mysql.database.azure.com');
+    define('db_user','kok12345@kok-ddac-sea-wa-mysqldbserver');
+    define('db_pass','Kok@12345');
     
     $dblink=mysqli_connect(db_host, db_user, db_pass);
     $db_found=mysqli_select_db($dblink,db_name);
@@ -98,9 +98,9 @@ if(isset($_POST['id5']))
 if(isset($_POST['id6']))
 {
     define('db_name','ddac');
-    define('db_host','localhost');
-    define('db_user','root');
-    define('db_pass','');
+    define('db_host','kok-ddac-sea-wa-mysqldbserver.mysql.database.azure.com');
+    define('db_user','kok12345@kok-ddac-sea-wa-mysqldbserver');
+    define('db_pass','Kok@12345');
     
     $dblink=mysqli_connect(db_host, db_user, db_pass);
     $db_found=mysqli_select_db($dblink,db_name);
