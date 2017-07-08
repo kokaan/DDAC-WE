@@ -140,7 +140,7 @@ $num=0;
             
             <div id="removeVehiclePopBox" style="display:none" >
                 <input id="closepopp" type="button" onclick="closeRemoveVehiclePop()" value="X">
-                <h3 style="margin-left:10%">Are You Confirm To Remove The Selected Registered Vehicle?” </h3>
+                <h3 style="margin-left:10%">Are You Confirm To Remove The Selected Registered Vehicle? </h3>
                 <input id="removeId" type="hidden" size="40" name="removeId">
                 <p align="center"><input type="submit" name="removeVehicle" value="Remove"></p>
             </div>
