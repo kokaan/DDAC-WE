@@ -128,7 +128,7 @@ $num=0;
                         </td>
                     </tr>
                     <tr>
-                        <td align="right" height="12%">Address:</td>
+                        <td align="right" height="12%">Number Plate:</td>
                         <td><input id="updateNumberPlate" type="text" size="40" name="updateNumberPlate"></td>
                     </tr>
                     <tr>
